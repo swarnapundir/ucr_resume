@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>MyTaxi</title>
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text.css"/>
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text.css"/>
+     <link href="assets/css/style.css" rel="stylesheet"/>  
+    <header>
+        <div class="row">
+            <div class="col-md-4">
+            <div class="logo"></div>
+            </div>
+        <div class="col-md-8">
+            <div class="heading">
+                 <div class="row bg-color-name-title">
+                    <h1 class="name">Swarna Pundir</h1>
+                   <h2 class="title">Full Stack Developer</h2>
+                 </div>
+          </div>
+          <div class="row">
+              <ul class="list-inline clearfix">
+                  <li class="col-xs-6 col-sm-3 ui-menu-color-home">
+                      <a href="#"><span>home</span></a>
+                   </li>   
+                  <li class="col-xs-6 col-sm-3 ui-menu-color-Resume">
+                      <a href="#"><span>Resume</span></a>
+                   </li>   
+                  <li class="col-xs-6 col-sm-3 ui-menu-color-Contact">
+                      <a href="#"><span>Contact</span></a>
+                    </li>
+                  <li class="col-xs-6 col-sm-3 ui-menu-color-Download">
+                      <a href="#"><span>Download</span></a>
+                    </li>
+              </ul>
+          </div>
+        </div>
+        </div>
+        
+</header>
+
+
+
+</head>
+
+<body>
+
+    <section>
+        
+    </section>
+    <footer>
+        
+    </footer>
+</body>
+</html>
